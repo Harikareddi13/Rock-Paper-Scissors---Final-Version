@@ -16,7 +16,7 @@ Scores are **tracked with localStorage**, persist after refresh, and can be **re
 ---
 
 ## 📸 Screenshot Preview  
-![Rock Paper Scissors Final](screenshot.png)  
+![Rock Paper Scissors Final](screenshot .png)  
 
 ---
 
